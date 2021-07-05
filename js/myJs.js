@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "www.facebook.com/didannguyen.messi1705";
+            window.location = "http://facebook.com/didannguyen.messi1705";
           },
         });
       }
